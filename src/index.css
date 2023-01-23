@@ -5,7 +5,7 @@
 body {
     margin: 0;
     width: 100vw;
-    height: 100vh;
+    height: 100%;
     font-family: 'Karla', sans-serif;
     background: #0B2434;
 }
@@ -16,7 +16,7 @@ main {
     justify-content: center;
     align-items: center;
     position: absolute;
-    padding: 20px;
+    padding: 16rem;
     width: 80vw;
     height: 80vh;
     left: 10%;
